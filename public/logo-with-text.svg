@@ -1,0 +1,13 @@
+<svg width="180" height="40" viewBox="0 0 180 40" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Logo Icon -->
+  <g transform="translate(0, 0)">
+    <path d="M20 0L37.3205 10V30L20 40L2.67949 30V10L20 0Z" fill="#574964"/>
+    <path d="M20 7L31.2583 13.5V26.5L20 33L8.74167 26.5V13.5L20 7Z" fill="#9F8383"/>
+    <circle cx="20" cy="20" r="5" fill="#FFDAB3"/>
+  </g>
+  
+  <!-- Text -->
+  <text x="48" y="27" font-family="'Outfit', system-ui, sans-serif" font-weight="700" font-size="24" fill="#574964" letter-spacing="-0.02em">
+    Start<tspan fill="#9F8383">App</tspan>
+  </text>
+</svg>
